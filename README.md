@@ -23,10 +23,11 @@ Este projeto implementa um contador numérico baseado na entrada do usuário, pr
    ```sh
    git clone https://github.com/seu-usuario/desafio-controle-fluxo.git
    cd desafio-controle-fluxo
-
+   ``` 
 2. Compile o código:
    ```sh
    javac Contador.java ParametrosInvalidosException.java
+   ```
 
 3. Execute o programa:
  Compile o código:
@@ -77,6 +78,6 @@ O segundo parâmetro deve ser maior que o primeiro.
  ┗ 📜 README.md
  ```
 
-📝 Créditos
+## 📝 Créditos
 
 Desenvolvido por Larissa Albuquerque como parte do Desafio Controle de Fluxo da dio.me, para praticar estruturas condicionais e exceções em Java. 🚀
